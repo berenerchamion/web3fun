@@ -1,0 +1,19 @@
+{
+  "name": "web3fun",
+  "version": "1.0.0",
+  "description": "Learning web3.js and Ethereum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berenerchamion/web3fun.git"
+  },
+  "author": "Beren Erchamion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berenerchamion/web3fun/issues"
+  },
+  "homepage": "https://github.com/berenerchamion/web3fun#readme"
+}
