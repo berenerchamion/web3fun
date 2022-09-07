@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/berenerchamion/web3fun/issues"
   },
-  "homepage": "https://github.com/berenerchamion/web3fun#readme"
+  "homepage": "https://github.com/berenerchamion/web3fun#readme",
+  "dependencies": {
+    "web3": "^1.7.5"
+  }
 }
